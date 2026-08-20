@@ -3,6 +3,8 @@
 The QSC Software Ecosystem brings together software, tools, workflows, and
 shared practices that support the mission of the Quantum Science Center (QSC).
 
+[Explore the QSC Software Ecosystem website](https://qscsoftwareecosystem.github.io/)
+
 ## Our aim
 
 Our aim is to create an interoperable, reproducible, and sustainable software
@@ -38,4 +40,6 @@ scientific work.
 
 ## Resources
 
-<!-- Add links to the QSC website, ecosystem documentation, roadmap, and governance information. -->
+- [QSC Software Ecosystem website](https://qscsoftwareecosystem.github.io/)
+
+<!-- Add links to additional QSC resources, ecosystem documentation, roadmap, and governance information. -->
