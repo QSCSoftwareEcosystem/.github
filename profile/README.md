@@ -8,31 +8,34 @@
   </a>
 </p>
 
-# Quantum Science Center Software Ecosystem
+# Quantum Science Center Quantum-HPC Ecosystem
 
-**The QSC Software Ecosystem connects independently developed quantum-science
-methods, compilers, simulators, knowledge, and delivery tools into a more
-interoperable, reproducible, and sustainable research environment.**
+**The Quantum Science Center (QSC) brings together world-leading expertise and unique capabilities from the national laboratories, academic institutions, and industry to realize its ambitious vision of a fault-tolerant quantum high-performance computing (QHPC) ecosystem, which will provide opportunity for unprecedented impacts on quantum computing. Through the convergence of quantum computing with leadership-class HPC systems, the QSC is developing a holistic software ecosystem that combines research in hybrid algorithms, scientific applications, QHPC architectures, and experimental validation that amplifies the impact of fault-tolerant quantum computing. For more information about QSC, visit [www.qscience.org](www.qscience.org)**
 
-[Explore the website](https://qscsoftwareecosystem.github.io/) ·
+**The QSC QHPC Ecosystem is a software implementation that integrates the development of quantum algorithms and applications with quantum compilers, simulators, knowledge bases, and delivery tools into an interoperable, reproducible, and sustainable research environment. Find more information about the available code and data reposititories, development guides, and other resources at the links below.**
+
+[QSC QHPC Ecosystem Overview](https://qscsoftwareecosystem.github.io/) ·
 [Browse all repositories](https://github.com/orgs/QSCSoftwareEcosystem/repositories) ·
-[Use the README guide](../brand/README.md) ·
-[Start from the template](../templates/README.template.md)
+[Use the README guide](../brand/README.md) 
+<!-- [Start from the template](../templates/README.template.md) -->
 
-> The projects below remain owned by their contributing teams and vary in
-> maturity and release status. Each repository is the source of truth for its
-> supported capabilities.
+> The QSC QHPC Ecosystem coordinates the research and development of new tools and techniques for hybrid quantum computing. As research tools, the available repositories represent varying levels of maturity and release status. Each individual project below is maintained by their corresponding contributing teams.
 
-## At a glance
+## Ecosystem at a Glance
 
 | | |
 | --- | --- |
 | **Public portfolio** | 10 repositories |
 | **Research path** | Methods and knowledge → compilation → simulation and validation → delivery |
 | **Shared priorities** | Interoperability, reproducibility, provenance, and sustainability |
-| **Last reviewed** | 2026-08-25 |
+| **Last reviewed** | 2026-09-22 |
 
-## Public repository portfolio
+## Capability Portfolio
+
+### Workflow management and dashboard
+| Repository | Role in the Ecosystem |
+| --- | --- |
+| [QHPC-Ecosystem](https://github.com/QSCSoftwareEcosystem/QHPC-Ecosystem) | Local workbench that hosts QSC QHPC tools in one place|
 
 ### Scientific methods and knowledge
 
@@ -87,25 +90,10 @@ flowchart LR
     style E fill:#101D2D,stroke:#101D2D,color:#FFFDF8
 ```
 
-*The ecosystem connects specialized projects across a research path while each
-team retains responsibility for its scientific and software contributions.*
+*The QSC QHPC Ecosystem connects the different, specialized tools and techniques into an interoperable research workflow. The QHPC-Ecossytem workbench provides a all-in-one platform to access these tools.*
 
-## Shared working principles
+## How to get started
 
-- **Connect:** define usable boundaries between independently developed tools.
-- **Preserve:** carry context, provenance, and evidence through the research path.
-- **Sustain:** improve testing, packaging, documentation, and reproducibility.
-- **Respect ownership:** coordinate projects without dissolving team accountability.
-
-## Start here
-
-- Visit the [QSC Software Ecosystem website](https://qscsoftwareecosystem.github.io/)
-  for the portfolio narrative and capability map.
-- Open the [repository branding guide](../brand/README.md) when preparing or
-  refreshing a project README.
-- Use the [minimal README template](../templates/README.template.md) as an
-  adaptable starting point.
-- Review the separate [release-readiness checklist](../brand/RELEASE_READINESS.md)
-  when preparing a versioned or supported release.
-- Use the relevant repository's issue tracker for project-specific questions,
-  contributions, or support requests.
+- **Visit the [QSC Software Ecosystem website](https://qscsoftwareecosystem.github.io/)  for a deeper understanding of the capability portfolio and capability map.
+- **Install [QHPC-Ecosystem](https://github.com/QSCSoftwareEcosystem/QHPC-Ecosystem), a local workbench that hosts the integrate QSC QHPC tools all in one place.
+- **Provide feedback through the issues tracker to help improve the ecosystem and request new features or support.
