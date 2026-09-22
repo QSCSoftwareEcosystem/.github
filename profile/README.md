@@ -94,6 +94,6 @@ flowchart LR
 
 ## How to get started
 
-- **Visit the [QSC Software Ecosystem website](https://qscsoftwareecosystem.github.io/)  for a deeper understanding of the capability portfolio and capability map.
-- **Install [QHPC-Ecosystem](https://github.com/QSCSoftwareEcosystem/QHPC-Ecosystem), a local workbench that hosts the integrate QSC QHPC tools all in one place.
-- **Provide feedback through the issues tracker to help improve the ecosystem and request new features or support.
+- **Visit the [QSC Software Ecosystem website](https://qscsoftwareecosystem.github.io/)  for a deeper understanding of the capability portfolio and capability map.***
+- **Install [QHPC-Ecosystem](https://github.com/QSCSoftwareEcosystem/QHPC-Ecosystem), a local workbench that hosts the integrate QSC QHPC tools all in one place.***
+- **Provide feedback through the issues tracker to help improve the ecosystem and request new features or support.***
